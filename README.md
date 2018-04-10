@@ -1,4 +1,4 @@
-# Capurro's vimfiles
+# My's Vimfiles
 
 I have spent a fair amount of time customizing my editor, and I think these are pretty sane defaults for other people to use
 
