@@ -15,6 +15,8 @@ First of all, clone this repo, or add it as a submodule of your [main dotfiles r
 ```
 git clone https://github.com/juanpcapurro/vimfiles.git ~/.config/nvim
 ```
+After cloning, run `sudo pip install neovim`.
+
 Then, open `nvim` (the first time it'll curl for Plug)and run `:PlugInstall`.
 Most of the plugins are hassle-free, but YCM and Command-T have a compiled component.
 Compilation of those might fail if you lack a dependency
